@@ -1,0 +1,165 @@
+
+
+##
+## # Xfce
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / xfce
+##
+
+xfce4
+xfce4-goodies
+
+
+policykit-desktop-privileges
+
+
+
+
+##
+## ## Package / Window Manager / xfwm4
+##
+
+#xfwm4
+
+
+
+
+##
+## ## Package / Theme
+##
+
+gtk2-engines-murrine
+#murrine-themes
+
+
+
+
+##
+## ## Package / Theme / papirus-theme
+##
+
+papirus-icon-theme
+papirus-colors
+
+
+
+##
+## ## Package / Theme / numix-theme
+##
+
+numix-gtk-theme
+numix-icon-theme
+numix-icon-theme-circle
+
+
+
+
+##
+## ## Package  / Theme / arc-theme
+##
+
+arc-theme
+
+
+
+
+##
+## ## Package / Theme / breeze-theme
+##
+
+#breeze
+breeze-cursor-theme
+breeze-gtk-theme
+breeze-icon-theme
+xfwm4-theme-breeze
+#sddm-theme-breeze
+
+
+
+
+##
+## ## Package / Tool
+##
+
+
+
+
+##
+## ## Package / Tool / Launcher
+##
+
+rofi
+
+
+
+
+##
+## ## Package / Tool / Terminal
+##
+
+xfce4-terminal
+sakura
+
+
+
+
+##
+## ## Package / Tool / File Manager
+##
+
+thunar
+
+
+
+
+##
+## ## Package / Tool / Text Editor
+##
+
+nano
+micro
+vim
+neovim
+
+
+
+mousepad
+
+
+featherpad
+feathernotes
+
+geany
+
+
+
+##
+## ## Package / Tool / Image Viewer
+##
+
+viewnior
+
+
+
+
+##
+## ## Package / Tool / Media Player
+##
+
+vlc
+mpv
+smplayer
+
+
+
+
+##
+## ## Package / Tool / Audio Player
+##
+
+audacious
