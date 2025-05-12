@@ -18,6 +18,13 @@ xfce4-goodies
 policykit-desktop-privileges
 
 
+network-manager
+network-manager-applet
+network-manager-openconnect-gnome
+network-manager-openvpn-gnome
+nm-connection-editor
+
+
 
 
 ##
