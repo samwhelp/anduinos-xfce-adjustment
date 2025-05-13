@@ -27,7 +27,7 @@
 ## Script
 
 | Script |
-| ---- |
+| ------ |
 | [AnduinOS Xfce Config](https://github.com/samwhelp/anduinos-xfce-adjustment/tree/main/prototype/main/xfce-config/full/Main) |
 | [Tool Config](https://github.com/samwhelp/anduinos-adjustment/tree/main/prototype/main/tool-config/part) |
 
